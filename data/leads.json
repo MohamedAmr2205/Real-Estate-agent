@@ -1,0 +1,327 @@
+[
+  {
+    "lead_id": "L001",
+    "customer_name": "Ahmed Hassan",
+    "budget_egp": 4000000,
+    "budget_flexibility": "flexible_up_to_5000000",
+    "preferred_locations": [
+      "New Cairo"
+    ],
+    "property_types": [
+      "apartment"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "minimum_area_sqm": 140,
+    "purpose": "buy",
+    "preferred_payment_plan": "installments",
+    "availability_timeline": "within_1_month",
+    "must_have_features": [
+      "parking",
+      "security"
+    ],
+    "nice_to_have_features": [
+      "gym",
+      "clubhouse"
+    ],
+    "notes": "Open to increasing budget if payment plan is flexible.",
+    "status": "new"
+  },
+  {
+    "lead_id": "L002",
+    "customer_name": "Mariam Adel",
+    "budget_egp": 6500000,
+    "budget_flexibility": "fixed",
+    "preferred_locations": [
+      "New Cairo",
+      "Mostakbal City"
+    ],
+    "property_types": [
+      "apartment",
+      "duplex"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "minimum_area_sqm": 160,
+    "purpose": "buy",
+    "preferred_payment_plan": "installments",
+    "availability_timeline": "within_3_months",
+    "must_have_features": [
+      "parking",
+      "security"
+    ],
+    "nice_to_have_features": [
+      "garden",
+      "clubhouse"
+    ],
+    "notes": "Prefers a modern compound with strong security.",
+    "status": "new"
+  },
+  {
+    "lead_id": "L003",
+    "customer_name": "Omar Khaled",
+    "budget_egp": 2500000,
+    "budget_flexibility": "fixed",
+    "preferred_locations": [
+      "Alexandria",
+      "Miami"
+    ],
+    "property_types": [
+      "apartment"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "minimum_area_sqm": 90,
+    "purpose": "buy",
+    "preferred_payment_plan": "cash",
+    "availability_timeline": "within_6_months",
+    "must_have_features": [
+      "sea_view"
+    ],
+    "nice_to_have_features": [
+      "balcony"
+    ],
+    "notes": "Sea view is essential.",
+    "status": "new"
+  },
+  {
+    "lead_id": "L004",
+    "customer_name": "Nour Samir",
+    "budget_egp": 3000000,
+    "budget_flexibility": "flexible_up_to_3500000",
+    "preferred_locations": [
+      "Sheikh Zayed",
+      "6th of October"
+    ],
+    "property_types": [
+      "apartment",
+      "townhouse"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "minimum_area_sqm": 130,
+    "purpose": "buy",
+    "preferred_payment_plan": "installments",
+    "availability_timeline": "within_3_months",
+    "must_have_features": [
+      "parking"
+    ],
+    "nice_to_have_features": [
+      "garden"
+    ],
+    "notes": "Would consider a nearby area if the property is a strong match.",
+    "status": "new"
+  },
+  {
+    "lead_id": "L005",
+    "customer_name": "Youssef Tarek",
+    "budget_egp": 8000000,
+    "budget_flexibility": "flexible_up_to_9000000",
+    "preferred_locations": [
+      "New Cairo"
+    ],
+    "property_types": [
+      "villa",
+      "townhouse"
+    ],
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "minimum_area_sqm": 250,
+    "purpose": "buy",
+    "preferred_payment_plan": "installments",
+    "availability_timeline": "within_1_month",
+    "must_have_features": [
+      "garden",
+      "parking",
+      "security"
+    ],
+    "nice_to_have_features": [
+      "clubhouse",
+      "pool"
+    ],
+    "notes": "High urgency and interested in ready-to-move properties.",
+    "status": "new"
+  },
+  {
+    "lead_id": "L006",
+    "customer_name": "Salma Mostafa",
+    "budget_egp": 3500000,
+    "budget_flexibility": "fixed",
+    "preferred_locations": [
+      "New Cairo"
+    ],
+    "property_types": [
+      "apartment"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "minimum_area_sqm": 110,
+    "purpose": "buy",
+    "preferred_payment_plan": "installments",
+    "availability_timeline": "within_6_months",
+    "must_have_features": [
+      "security"
+    ],
+    "nice_to_have_features": [
+      "parking",
+      "gym"
+    ],
+    "notes": "Flexible on exact project but not on budget.",
+    "status": "new"
+  },
+  {
+    "lead_id": "L007",
+    "customer_name": "Karim Nabil",
+    "budget_egp": 5500000,
+    "budget_flexibility": "flexible_up_to_6500000",
+    "preferred_locations": [
+      "New Cairo",
+      "Mostakbal City"
+    ],
+    "property_types": [
+      "apartment",
+      "duplex"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "minimum_area_sqm": 150,
+    "purpose": "buy",
+    "preferred_payment_plan": "installments",
+    "availability_timeline": "within_1_month",
+    "must_have_features": [
+      "parking"
+    ],
+    "nice_to_have_features": [
+      "clubhouse"
+    ],
+    "notes": "Needs a fast recommendation because he plans to decide this month.",
+    "status": "new"
+  },
+  {
+    "lead_id": "L008",
+    "customer_name": "Hana Ibrahim",
+    "budget_egp": 1800000,
+    "budget_flexibility": "fixed",
+    "preferred_locations": [
+      "New Cairo"
+    ],
+    "property_types": [
+      "apartment"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "minimum_area_sqm": 80,
+    "purpose": "buy",
+    "preferred_payment_plan": "installments",
+    "availability_timeline": "within_12_months",
+    "must_have_features": [],
+    "nice_to_have_features": [
+      "parking"
+    ],
+    "notes": "Early-stage buyer; willing to receive future recommendations.",
+    "status": "new"
+  },
+  {
+    "lead_id": "L009",
+    "customer_name": "Mahmoud Fathy",
+    "budget_egp": 4500000,
+    "budget_flexibility": "fixed",
+    "preferred_locations": [
+      "New Cairo"
+    ],
+    "property_types": [
+      "apartment"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "minimum_area_sqm": 140,
+    "purpose": "buy",
+    "preferred_payment_plan": "cash",
+    "availability_timeline": "within_1_month",
+    "must_have_features": [
+      "parking"
+    ],
+    "nice_to_have_features": [
+      "garden"
+    ],
+    "notes": "Cash buyer who wants immediate availability.",
+    "status": "new"
+  },
+  {
+    "lead_id": "L010",
+    "customer_name": "Dina Wael",
+    "budget_egp": 5000000,
+    "budget_flexibility": "flexible_up_to_6000000",
+    "preferred_locations": [
+      "Sheikh Zayed"
+    ],
+    "property_types": [
+      "townhouse",
+      "duplex"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "minimum_area_sqm": 170,
+    "purpose": "buy",
+    "preferred_payment_plan": "installments",
+    "availability_timeline": "within_3_months",
+    "must_have_features": [
+      "parking",
+      "security"
+    ],
+    "nice_to_have_features": [
+      "garden"
+    ],
+    "notes": "Would accept a duplex if no townhouse matches.",
+    "status": "new"
+  },
+  {
+    "lead_id": "L011",
+    "customer_name": "Seif Ahmed",
+    "budget_egp": 4200000,
+    "budget_flexibility": "flexible_up_to_5000000",
+    "preferred_locations": [
+      "New Cairo"
+    ],
+    "property_types": [
+      "apartment"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "minimum_area_sqm": 135,
+    "purpose": "buy",
+    "preferred_payment_plan": "installments",
+    "availability_timeline": "within_3_months",
+    "must_have_features": [
+      "parking"
+    ],
+    "nice_to_have_features": [
+      "gym",
+      "clubhouse"
+    ],
+    "notes": "Interested in properties with low monthly installments.",
+    "status": "new"
+  },
+  {
+    "lead_id": "L012",
+    "customer_name": "Rana Hossam",
+    "budget_egp": null,
+    "budget_flexibility": "unknown",
+    "preferred_locations": [
+      "New Cairo"
+    ],
+    "property_types": [
+      "apartment"
+    ],
+    "bedrooms": null,
+    "bathrooms": null,
+    "minimum_area_sqm": null,
+    "purpose": "buy",
+    "preferred_payment_plan": "unknown",
+    "availability_timeline": "unknown",
+    "must_have_features": [],
+    "nice_to_have_features": [],
+    "notes": "Customer only asked for available apartments in New Cairo and did not provide budget or size.",
+    "status": "new"
+  }
+]
